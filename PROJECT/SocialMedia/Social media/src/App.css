@@ -1,0 +1,32 @@
+.app-container{
+  display: flex;
+}
+.content{
+  width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+ }
+ .card-button{
+  margin: 20px 50px;
+
+ }
+ .tags{
+  margin: 0px 3px ;
+ }
+ .Reaction{
+  margin: 15px 0 0 0;
+ }
+ .Delete{
+  margin: 15px;
+ }
+ .Create-post{
+  margin-left: 10%;
+  width: 80%;
+  margin-left: 70px;
+ 
+ }
+ .color{
+ 
+  border-color: rgb(65, 59, 59);
+ }

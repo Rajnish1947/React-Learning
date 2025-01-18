@@ -1,0 +1,48 @@
+/* .items-class{
+   color: red;
+    font-family: 500;
+    border: 2px solid black;
+    /* width: 800px; */
+/* }
+
+#title{
+    color: red;
+}
+.button1{
+    float: right;
+    margin: 5px;
+   justify-content: center;
+   
+}
+.name{
+    text-align: center;
+    width: 400px;
+} */ */
+.list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .item-text {
+    text-align: left;
+    font-weight: bold;
+    margin-top: 80px;
+  }
+  
+  .item-image {
+    height: 100px;
+    width: 150px;
+    margin-right: "10px"; /* Adjusted to margin-right for left alignment */
+    border: none;
+    border-radius:30px;
+    float: left;
+  }
+  
+  .button1 {
+    margin-left: 10px; 
+   flex: auto;/* Ensure there's some space between text and button */
+   float: right;
+   margin-top: 90px;
+  }
+  
